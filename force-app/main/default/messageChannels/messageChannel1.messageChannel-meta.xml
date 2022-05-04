@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>validationRequest</masterLabel>
+    <isExposed>false</isExposed>
+    <lightningMessageFields>
+        <fieldName>context</fieldName>
+        <description>The message context of the component firing the event. Used to scope the
+            validation to the requesting component.</description>
+    </lightningMessageFields>
+    <description>Validation request messages are fired by a component
+        requesting registered components to validate themselves. Normally this is done by Flow Footers</description>
+</LightningMessageChannel>

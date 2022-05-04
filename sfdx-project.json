@@ -1,0 +1,22 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "W10887926",
+            "versionName": "ver 1.1.1.0",
+            "versionNumber": "1.1.1.0",
+            "ancestorVersion": "1.1.0.0"
+        }
+    ],
+    "name": "W-10887926-2",
+    "namespace": "de0429",
+    "sfdcLoginUrl": "https://tdionne-ltm.internal.salesforce.com:7829",
+    "sourceApiVersion": "54.0",
+    "packageAliases": {
+        "W10887926": "0Hoxx0000004C92CAE",
+        "W10887926@1.0.1-0": "04txx0000004HbiAAE",
+        "W10887926@1.1.0-0": "04txx0000004HdKAAU",
+        "W10887926@1.1.1-0": "04txx0000004HlOAAU"
+    }
+}
